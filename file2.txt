@@ -1,2 +1,0 @@
-this is file2
-this newly added line for scond file
